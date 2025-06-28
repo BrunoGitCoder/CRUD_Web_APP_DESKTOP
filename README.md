@@ -160,7 +160,9 @@ UPDATE usuario SET acess = 'admin' WHERE user = 'nome_do_novo_usuario';
 ## 🎨 Estilo e Visual
 
 O layout da aplicação foi desenvolvido com foco exclusivo em **telas desktop**, conforme exigência da atividade.  
-> **Atenção:** Não possui responsividade para dispositivos móveis.
+
+> [!IMPORTANT]
+> Não possui responsividade para dispositivos móveis.
 
 Os estilos estão organizados nos seguintes arquivos:
 
