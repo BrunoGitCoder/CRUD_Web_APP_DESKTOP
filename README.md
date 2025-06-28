@@ -121,7 +121,7 @@ Para testar todas as funcionalidades do sistema (inclusão, edição e exclusão
 
 > Além disso, ao passar o mouse sobre qualquer card de filme, um **ícone de edição** ficará visível.  
 > Ele permite acessar diretamente a página de edição e exclusão do respectivo registro.
-![Menu Admin](assets/img/admin_edit_menu.png)
+<img src="assets/img/admin_edit_menu.png" alt="Menu Admin" width="300"/>
 
 Essa conta já está cadastrada automaticamente ao importar o arquivo `app_web.sql`.
 
@@ -246,7 +246,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Mensagem exibida ao realizar uma busca sem resultados.*
 
-![Nenhum Resultado](assets/img/no_search_movie.png)
+<img src="assets/img/no_search_movie.png" alt="Nenhum Resultado" style="width: 80%;"/>
 
 ---
 
@@ -254,7 +254,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Exibido quando se tenta registrar um nome de usuário que já está em uso.*
 
-![Usuário já existe](assets/img/user_exist.png)
+<img src="assets/img/user_exist.png" alt="Usuário já existe" style="width: 40%;"/>
 
 ---
 
@@ -262,7 +262,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Exibido quando as senhas digitadas não são iguais.*
 
-![Senhas diferentes](assets/img/pass_diferent.png)
+<img src="assets/img/pass_diferent.png" alt="Senhas diferentes" style="width: 40%;"/>
 
 ---
 
@@ -270,7 +270,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Mensagem ao tentar logar com um nome de usuário que não existe.*
 
-![Usuário não existe](assets/img/user_not_exist.png)
+<img src="assets/img/user_not_exist.png" alt="Usuário não existe" style="width: 40%;"/>
 
 ---
 
@@ -278,7 +278,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Exibido quando a senha informada está incorreta.*
 
-![Senha inválida](assets/img/pass_wrong.png)
+<img src="assets/img/pass_wrong.png" alt="Senha Inválida" style="width: 40%;"/>
 
 ---
 
@@ -286,7 +286,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Erro ao tentar cadastrar um filme sem enviar uma imagem válida.*
 
-![Erro ao enviar imagem](assets/img/error_movie_register.png)
+<img src="assets/img/error_movie_register.png" alt="Erro ao enviar imagem" style="height: 60px;"/>
 
 ---
 
@@ -294,7 +294,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Mensagem de confirmação após exclusão de um registro.*
 
-![Exclusão com sucesso](assets/img/success_movie_delete.png)
+<img src="assets/img/success_movie_delete.png" alt="Exclusão com sucesso" style="height: 60px;"/>
 
 ---
 
@@ -302,7 +302,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Mensagem exibida após cadastrar um novo filme corretamente.*
 
-![Cadastro com sucesso](assets/img/success_movie_register.png)
+<img src="assets/img/success_movie_register.png" alt="Cadastro com sucesso" style="height: 60px;"/>
 
 ---
 
@@ -310,7 +310,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 
 *Mensagem exibida após criação de conta com sucesso.*
 
-![Usuário registrado com sucesso](assets/img/success_user_register.png)
+<img src="assets/img/success_user_register.png" alt="Usuário registrado com sucesso" style="width: 40%;"/>
 
 ---
 
