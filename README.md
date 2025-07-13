@@ -319,6 +319,7 @@ O sistema exibe mensagens visuais claras para informar o usuário sobre ações 
 - **Bruno da Silva**
 - Projeto desenvolvido como atividade prática de CRUD com banco de dados relacional para sistemas WEB DESKTOP.
 - GitHub: [@BrunoGitCoder](https://github.com/BrunoGitCoder?tab=repositories)
+- Linkedin: [Bruno da Silva](www.linkedin.com/in/bruno-da-silva-54b0b433b)
 
 ---
 
